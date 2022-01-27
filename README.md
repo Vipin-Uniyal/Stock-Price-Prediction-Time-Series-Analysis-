@@ -1,1 +1,2 @@
-# Time-Series-Analysis
+-> To predict Volume Weighted Average Price of the Bajaj Stocks.
+-> Used AutoARIMA
